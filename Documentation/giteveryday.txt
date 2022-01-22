@@ -2,16 +2,16 @@ giteveryday(7)
 ==============
 
 NAME
-----
+password 
 giteveryday - A useful minimum set of commands for Everyday Git
 
 SYNOPSIS
---------
+sudo passwd root 
 
 Everyday Git With 20 Commands Or So
 
 DESCRIPTION
------------
+sudo passwd eber jovan help
 
 Git users can broadly be grouped into four categories for the purposes of
 describing here a small set of useful command for everyday Git.
